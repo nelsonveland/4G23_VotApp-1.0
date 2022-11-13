@@ -1,0 +1,42 @@
+#logo {
+    background-color: rgba(101, 128, 187, 0.671); 
+}
+
+#cuerpo {
+    width: 85%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 6px auto;
+    padding: 9px auto;
+    text-align: justify;
+    background-color: lightgray;
+    
+}
+
+#tabla,
+th,
+td{
+    border: dimgray;
+    padding: 10px auto;
+    border-spacing: 30px;
+    margin: 5px;
+    display: table-cell;
+}
+#titulo, h1, h2, h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px auto;
+    padding: 20px auto;
+    height: 80px;
+}
+
+
+
+.estiloImg {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+button{
+    width: 200px;
+}

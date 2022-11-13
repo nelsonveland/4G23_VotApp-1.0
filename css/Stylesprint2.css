@@ -1,0 +1,23 @@
+#logo {
+    background-color: white; 
+}
+
+#cuerpo {
+    width: 85%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 6px auto;
+    padding: 9px auto;
+    text-align: justify;
+    background-color: lightgray;
+    
+}
+
+#tabla,
+th,
+td{
+    border: dimgray;
+    padding: 10px auto;
+    border-spacing: 30px;
+    margin: 5px;
+    display: table-cell;
+}

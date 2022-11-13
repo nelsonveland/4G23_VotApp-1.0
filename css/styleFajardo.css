@@ -1,0 +1,53 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #cae24d;
+    --secundario: #690672;
+    --verde: #256e08;
+    --amarillo: rgb(190, 178, 20);
+
+}
+
+
+
+html {
+    font-size: 50.5%;
+  
+}
+
+
+
+body {
+
+    font-size: 18px;
+    font-family: 'Montserrat';
+    width: 1500px;
+    margin: 20px auto;
+    background-image: url("../img/verde2.png");
+    
+
+}
+
+.titulo {
+    text-align: center;
+    font-size: 7.8rem;
+    color: var(--blanco);
+}
+
+.contenedor {
+    width: 100rem;
+    margin: 0 auto;
+ 
+}
+
+.nav-bg {
+
+    background-color: var(--amarillo);
+}
+
+.titulo2 {
+    text-align: center;
+    font-size: 7.8rem;
+    color: var(--primario);
+
+}

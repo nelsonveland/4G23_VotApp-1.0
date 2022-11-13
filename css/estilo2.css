@@ -1,0 +1,90 @@
+#bandera{
+    float: left;
+    width: 30px;
+}
+
+#bandera2{
+    float:right;
+    width: 30px;
+}
+
+
+#titulo{
+    
+    background-color:rgb(10, 10, 112);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    margin: 10px auto;
+    padding: 20px auto;
+    height: 35px;
+}
+
+#contenido{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(4, 4, 46);
+    text-align: justify;
+    margin: 10px auto;
+    padding: 20px auto;
+    width: 70%;
+}
+
+table{
+
+    width: 80%;
+    
+}
+
+table td{
+    vertical-align:top;
+    text-align:right;
+    padding: 10px;
+}
+
+
+
+p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.estiloImg{
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+
+
+#nombres{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(10, 10, 112);
+    color: aliceblue;
+    text-align: center;
+}
+
+h1{ 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+}
+
+h4{
+    font-size:medium;
+    
+}
+
+#fondo{
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#pie{
+
+    background-color:rgb(10, 10, 112);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    margin: 5px auto;
+    padding: 20px auto;
+    height: 25px;
+
+}
